@@ -32,6 +32,7 @@ group :development, :test do
   gem 'pry'
   gem 'vcr'
   gem "webmock", "~> 3.0"
+  gem 'graphiql-rails'
 end
 
 group :development do
