@@ -24,6 +24,7 @@ gem 'vacuum'
 gem 'connection_pool'
 gem "httparty", "~> 0.15.6"
 gem 'redis', '~> 3.2'
+gem "graphql-activerecord", "~> 0.12.4"
 
 group :development, :test do
   gem 'capybara', '~> 2.13'
